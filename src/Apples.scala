@@ -6,9 +6,6 @@
  * 1. Run the program
  * 2. When prompted input the file directory and name that you would like to input
  * 3. Output will be in terminal
- *
- * NOTE: to use standard test inputs prepend the filename with "test.textfiles/"
- *
  */
 
 
